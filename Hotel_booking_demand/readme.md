@@ -1,9 +1,7 @@
 
-<p style = "font-size : 40px; color : #66CD00 ; font-family : 'SF Mono Light'; text-align : center; background-color : #D2691E"><strong>Predicting Hotel Booking Cancellation</strong></p>
+# Hotel Booking Demand
 
-<div>
-<img src="Hotel_booking_demand/images/Avalon.png" style="margin-left: 10%; float: center;  border:6px solid #66CD00; width:80%; height:80%">
-</div>
+![image](images/Avalon.png)
 
 # 1. Dataset:
 
