@@ -22,7 +22,7 @@ Unfortunately this dataset is not open source. However, I could consider to shar
 | merchantZip                                                                                                                                                                                       | A truncated zip code for the merchant's postal region
 |                                                         
 |
-  posEntryMode Values                                                                                                                                                                                                  |
+posEntryModeValues                                                                                    |
 | 00                                                                                                                                                                                              | Entry Mode Unknown                                                                       |
 | 01                                                                                                                                                                                                 | POS Entry Mode Manual                                                                         |
 | 02                                                                                                                                                                                                      | POS Entry Model Partial MSG Stripe                                                                 |
