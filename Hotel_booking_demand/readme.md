@@ -7,7 +7,7 @@
 
 # 1. Dataset:
 
-This dataset consists of booking data from a city hotel and a resort hotel. It includes many details about the bookings, including room specifications, the length of stay, the time between booking and stay, whether the booking was canceled, and how the booking was made. For more details about dataset prease refers to the next link. The original idea was taken from [Datacamp](https://www.datacamp.com) and tested on [Kaggle](https://www.kaggle.com) platform. 
+This dataset consists of booking data from a city hotel and a resort hotel. It includes many details about the bookings, including room specifications, the length of stay, the time between booking and stay, whether the booking was canceled, and how the booking was made. For more details about dataset please refers to the next link. The original idea was taken from [Datacamp](https://www.datacamp.com) and tested on [Kaggle](https://www.kaggle.com) platform. 
 
 [Source](https://www.kaggle.com/jessemostipak/hotel-booking-demand/) and [license](https://creativecommons.org/licenses/by/4.0/) of data. 
 
@@ -51,14 +51,14 @@ _Note: For binary variables: `1` = true and `0` = false._
 
 # 2. Project Motivation:
 
-The goal of the project is to preict booking cancelation based on different features on the dataset. To do that we will do some minimal feature engineering and different ensemble-based Classification models will be tested. In addition a basic classification keras model was tested as well.
+The goal of the project is to predict booking cancellation based on different features on the dataset. To do that we will do some minimal feature engineering and different ensemble-based Classification models will be tested. In addition a basic classification Keras model was tested as well.
 
 # 3. Data Insights
 * People are more enthusiastic for going to City Hotels rather than to Resort Hotels. According to the very right plot, it seems to be more cancellations on City hotels
 
 ![plot](images/bookings_by_month_&_hotel_type.png?raw=true)
 
-* Large families are, in general, more probable to cancel the reservation, whereas an average family are less prompt to cancel. Interestingly, in summer seasonn (July - August) large families ehibits a cancellation probability decrease, towards simmilar values as the normal sized families.
+* Large families are, in general, more probable to cancel the reservation, whereas an average family are less prompt to cancel. Interestingly, in summer season (July - August) large families exhibits a cancellation probability decrease, towards similar values as the normal sized families.
 
 ![plot](images/Cancelations_by_date_&_family_size.png?raw=true)
 
