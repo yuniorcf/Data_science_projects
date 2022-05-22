@@ -19,10 +19,9 @@ Unfortunately this dataset is not open source. However, I could consider to shar
 | posEntryMode                                                                                                                                                                                         | The Point Of Sale entry mode                                                                           |
 | availableCash                                                                                                                                                                                  | The (rounded) amount available to spend prior to the transaction                                                                        |
 | merchantCountry                                                                                                                                                                                     | A unique identifying string for the merchant's country                                                                                     |
-| merchantZip                                                                                                                                                                                       | A truncated zip code for the merchant's postal region
-|                                                         
-|
-posEntryModeValues                                                                                    |
+| merchantZip                                                                                                                                                                                       | A truncated zip code for the merchant's postal region    |
+|                                                      
+posEntryMode_Values                                                                                    |
 | 00                                                                                                                                                                                              | Entry Mode Unknown                                                                       |
 | 01                                                                                                                                                                                                 | POS Entry Mode Manual                                                                         |
 | 02                                                                                                                                                                                                      | POS Entry Model Partial MSG Stripe                                                                 |
@@ -31,7 +30,7 @@ posEntryModeValues                                                              
 | 80                                                                                                                                                                                                         | Chip Fallback to Magnetic Stripe                                                                        |
 | 81                                                                                                                                                                                                         | POS Entry E-Commerce                                                                        |
 | 90                                                                                                                                                                                                    | POS Entry Full Magnetic Stripe Read                                                                    |
-| 91                          | POS Entry Circuit Card Partial  
+| 91                          | POS Entry Circuit Card Partial                                                                |               
 
 
 # 2. Project Motivation:
