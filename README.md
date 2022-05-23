@@ -11,8 +11,8 @@
 </div>
 
 
-- :book: I’m Phisicist and hold a PhD on Natural Sciences
-- 💞️ I love mathematical modelling of any complex system in nature
+- :book: I’m Physicist and hold a PhD on Natural Sciences
+- 💞️ I love mathematical modeling of any complex system in nature
 - 🌱 I’m currently learning Data Science
 - 👀 I’m looking to collaborate on any Data Science project
 - 📫 How to reach me [@yuniorcabrales](mailto:yuniorcabrales@gmail.com)
